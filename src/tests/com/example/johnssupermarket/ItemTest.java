@@ -1,4 +1,3 @@
-
 package com.example.johnssupermarket;
 
 import org.junit.Test;
