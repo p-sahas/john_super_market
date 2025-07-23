@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane prefHeight="600.0" prefWidth="800.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.johnssupermarket.AllDealersController">
+    <top>
+        <Label styleClass="label-header" text="All Registered Dealers" BorderPane.alignment="CENTER">
+            <BorderPane.margin>
+                <Insets bottom="10.0" top="20.0" />
+            </BorderPane.margin>
+        </Label>
+    </top>
+    <center>
+        <TableView fx:id="allDealersTable" BorderPane.alignment="CENTER">
+            <columns>
+                <TableColumn fx:id="colDealerId" minWidth="50.0" prefWidth="80.0" text="ID" />
+                <TableColumn fx:id="colName" minWidth="100.0" prefWidth="150.0" text="Name" />
+                <TableColumn fx:id="colLocation" minWidth="80.0" prefWidth="120.0" text="Location" />
+                <TableColumn fx:id="colContactPerson" minWidth="100.0" prefWidth="150.0" text="Contact Person" />
+                <TableColumn fx:id="colContactEmail" minWidth="150.0" prefWidth="200.0" text="Contact Email" />
+            </columns>
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+            </columnResizePolicy>
+            <BorderPane.margin>
+                <Insets left="10.0" right="10.0" />
+            </BorderPane.margin>
+        </TableView>
+    </center>
+    <bottom>
+        <HBox alignment="CENTER" BorderPane.alignment="CENTER">
+            <children>
+                <Button fx:id="closeButton" mnemonicParsing="false" onAction="#handleClose" text="Close" />
+            </children>
+            <padding>
+                <Insets bottom="10.0" top="10.0" />
+            </padding>
+        </HBox>
+    </bottom>
+</BorderPane>

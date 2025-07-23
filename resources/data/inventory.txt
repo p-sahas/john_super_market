@@ -1,0 +1,13 @@
+B001||Percy Jackson 01||Rick Riordan||1500.0||500||Books||2024-06-01||percyjackson.jpg||10||null
+T001||T-Shirt||Adidas||25000.0||30||Clothing||2024-07-10||adidas.jpg||10||D02
+E001|| Inspire Laptop||Dell||125000.0||8||Electronics||2025-01-15||laptop.png||5||D01
+E002||Wireless Mouse||Logitech||7000.0||25||Electronics||2025-04-05||mouse.jpg||200||D01
+C001||Wavves Slippers||DSI||1200.0||4||Foot Wear||2025-02-01||waves.jpg||5||D02
+F001||Red Apples||Keells||175.0||150||Groceries||2025-06-10||apple.png||500||D03
+F002||Chocolate Powder Tin 200G||Keells||1200.0||50||Groceries||2025-07-23||chocolatedrink.jpg||10||D03
+F003||Classic Coffee Jar 100g||Nescafe||1500.0||50||Groceries||2025-07-15||nescafe.jpg||60||D03
+F004||Arocafe Coffee Jar 100g||Arocafe||1600.0||15||Groceries||2025-07-23||arocafe.jpg||12||null
+F005||Butter Salted 200g||Ambewela||200.0||50||Groceries||2025-07-24||butter.jpg||15||D07
+F007||Kellogg's Chocos 250g||Kellogg||300.0||20||Groceries||2025-07-23||chocos.jpg||10||D07
+F006||Lemonade Pet 1.5L||Elephant House||250.0||15||Groseries||2025-07-23||lemonade.jpg||12||D07
+H001||Drill Set||Man Power||25000.0||15||Hardware||2024-12-20||drill.jpg||5||D04

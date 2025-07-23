@@ -1,0 +1,7 @@
+D01||Sahas Tech Inc.||Gampaha||Damru Nimsara ||Damru@tech.com
+D02||DSI Inc.||Galle||Sarah Sari||sarah@dsi.com
+D03||Keells||Colombo 03||Himasara Jay||hima@keells.com
+D04||Boomer Suppliers||Naranwala||Randika Achala||achala@boomer.com
+D05||Melsta Corp||Dematagoda||Harry Jay||Harry@melsta.com
+D06||Ranjan Lanka Ltd.||Gampaha||Nipun Navodya||Nipun@ranjan.com
+D07||Cargills||Kandy||Pavindu Perera||pavindu@cargills.com
